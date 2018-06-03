@@ -1,0 +1,23 @@
+.filters input{
+    display: inline;
+    width:auto;
+    }
+
+.filters select{
+    display: inline;
+    width:auto;
+}
+
+.jumbotron{
+    background-image: url("ufo.png");
+    background-repeat:no-repeat;
+    background-position: right top;
+    background-color: #202b47;
+        
+}
+
+.jumbotron h1{
+    color: white;
+    text-transform: uppercase;
+    margin-left:20%;
+}
